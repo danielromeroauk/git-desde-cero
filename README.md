@@ -1,12 +1,12 @@
 # Git desde cero
 
-## Recursos de git y github
+Descarga Git del sitio oficial: https://git-scm.com/downloads
+
+## Recursos de Git y GitHub
 
 [Curso en EDteam](https://ed.team/cursos/git)
 [Curso en Platzi](https://platzi.com/cursos/git-github/)
 [Curso de Udemy](https://www.udemy.com/git-y-github-completo-desde-cero/)
-
-Descarga Git del sitio oficial: https://git-scm.com/downloads
 
 ## Personas aprendiendo sobre Git
 
@@ -22,3 +22,4 @@ Descarga Git del sitio oficial: https://git-scm.com/downloads
 - Miguel Oceguera https://github.com/MiguelOcegueraM
 - Roberto Méndez https://github.com/BetoCR16
 - Sebastian Roa Meneses https://github.com/serome111
+- Juan Carlos Ajahuana https://github.com/ajahuanex
