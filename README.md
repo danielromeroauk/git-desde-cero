@@ -37,3 +37,4 @@ Descarga Git del sitio oficial: https://git-scm.com/downloads
 - Ivan Tabera https://github.com/ivantabera
 - David Abran https://github.com/Sabalero
 - Raul Martinez https://github.com/rmartinezcu
+- Andri Bonilla https://github.com/AndriBG
