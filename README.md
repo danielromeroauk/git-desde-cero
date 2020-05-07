@@ -12,6 +12,9 @@ Descarga Git del sitio oficial: https://git-scm.com/downloads
 - [Curso de Udemy](https://www.udemy.com/git-y-github-completo-desde-cero/)
 - [Curso de DevCode](https://devcode.la/cursos/git/)
 
+##Pequeño cambio añadido
+[Solo es un pequeño espacio de prueba]
+
 
 ## Personas aprendiendo sobre Git
 
