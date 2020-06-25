@@ -48,4 +48,5 @@ Descarga Git del sitio oficial: https://git-scm.com/downloads
 - Andrik Martínez https://github.com/Andrik-Ts-019
 - santiago kazlauskas https://github.com/santiagokazlauskas12
 - Reyes Axel https://github.com/axlgoze
+- Elizabeth H: https://github.com/VannaNotGianna
 - Juan Pablo Sala https://github.com/juanpablosala
