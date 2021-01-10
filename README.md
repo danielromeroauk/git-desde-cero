@@ -1,6 +1,9 @@
 # Git desde cero
 
+Repositorio del [curso gratuito de Git](https://www.youtube.com/playlist?list=PLmUnyBCRHkvUPkrsseI1SmMtYgfc-f8Kn) de Daniel Romero en su [canal del YouTube](https://www.youtube.com/user/danielromeroauk?sub_confirmation=1).
+
 Descarga Git del sitio oficial: https://git-scm.com/downloads
+
 
 ## Recursos de Git y GitHub
 
@@ -8,6 +11,7 @@ Descarga Git del sitio oficial: https://git-scm.com/downloads
 - [Curso en EDteam](https://ed.team/cursos/git)
 - [Curso de Udemy](https://www.udemy.com/git-y-github-completo-desde-cero/)
 - [Curso de DevCode](https://devcode.la/cursos/git/)
+
 
 ## Personas aprendiendo sobre Git
 
@@ -38,3 +42,18 @@ Descarga Git del sitio oficial: https://git-scm.com/downloads
 - David Abran https://github.com/Sabalero
 - Raul Martinez https://github.com/rmartinezcu
 - Andri Bonilla Guzmán https://github.com/AndriBG
+- Gonzalo Gutierrez https://github.com/gonguty1987
+- Raúl Rodríguez Díaz https://github.com/raul-rd
+- Jeasika López https://github.com/jeasika
+- Andrik Martínez https://github.com/Andrik-Ts-019
+- Santiago Kazlauskas https://github.com/santiagokazlauskas12
+- Reyes Axel https://github.com/axlgoze
+- Elizabeth H: https://github.com/VannaNotGianna
+- Juan Pablo Sala https://github.com/juanpablosala
+- Gabriel Rodriguez Ubiera https://github.com/gabrielroubiera
+- Rodrigo Rebolledo https://github.com/rodrigorebolledo
+- Noelia Rodríguez https://github.com/noeunla
+- Cesar Alvarez https://github.com/Cesar98
+- Brayan Moreno https://github.com/YoooBrayan
+- Josel Toro https://github.com/ctec105
+- Alan Cristian Martinez Genaro:  https://github.com/AlanCristianMartinezGenaro
