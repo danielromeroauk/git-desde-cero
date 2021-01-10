@@ -41,9 +41,9 @@ Descarga Git del sitio oficial: https://git-scm.com/downloads
 - Ivan Tabera https://github.com/ivantabera
 - David Abran https://github.com/Sabalero
 - Raul Martinez https://github.com/rmartinezcu
+- Andri Bonilla Guzmán https://github.com/AndriBG
 - Gonzalo Gutierrez https://github.com/gonguty1987
 - Raúl Rodríguez Díaz https://github.com/raul-rd
-- Andri Bonilla https://github.com/AndriBG
 - Jeasika López https://github.com/jeasika
 - Andrik Martínez https://github.com/Andrik-Ts-019
 - Santiago Kazlauskas https://github.com/santiagokazlauskas12
