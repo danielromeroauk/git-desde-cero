@@ -4,14 +4,12 @@ Repositorio del [curso gratuito de Git](https://www.youtube.com/playlist?list=PL
 
 Descarga Git del sitio oficial: https://git-scm.com/downloads
 
-
 ## Recursos de Git y GitHub
 
 - [Curso en Platzi](https://platzi.com/cursos/git-github/)
 - [Curso en EDteam](https://ed.team/cursos/git)
 - [Curso de Udemy](https://www.udemy.com/git-y-github-completo-desde-cero/)
 - [Curso de DevCode](https://devcode.la/cursos/git/)
-
 
 ## Personas aprendiendo sobre Git
 
@@ -56,4 +54,5 @@ Descarga Git del sitio oficial: https://git-scm.com/downloads
 - Cesar Alvarez https://github.com/Cesar98
 - Brayan Moreno https://github.com/YoooBrayan
 - Josel Toro https://github.com/ctec105
-- Alan Cristian Martinez Genaro:  https://github.com/AlanCristianMartinezGenaro
+- Alan Cristian Martinez Genaro: https://github.com/AlanCristianMartinezGenaro
+- Juan C. Luna H.: https://github.com/jclun
