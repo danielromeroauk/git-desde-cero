@@ -53,3 +53,8 @@ Descarga Git del sitio oficial: https://git-scm.com/downloads
 - Gabriel Rodriguez Ubiera https://github.com/gabrielroubiera
 - Rodrigo Rebolledo https://github.com/rodrigorebolledo
 - Jose Luis Siller https://github.com/JlsillerPemex/git-desde-cero.git
+- Noelia Rodríguez https://github.com/noeunla
+- Cesar Alvarez https://github.com/Cesar98
+- Brayan Moreno https://github.com/YoooBrayan
+- Josel Toro https://github.com/ctec105
+- Alan Cristian Martinez Genaro:  https://github.com/AlanCristianMartinezGenaro
